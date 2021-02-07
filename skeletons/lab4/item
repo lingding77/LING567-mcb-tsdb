@@ -18,16 +18,16 @@
 18@author@@@1@wo@surari o-tonko-an-a-i=ro tsinane@@@@0@3@hill 3fS-go.up-ABL-REG-realis=3fO maleA male climbed a hill.@ling tu, hanshu ding@jan 21, 2021
 19@author@@@1@wo@katsari i-ar-a-ig-an-ak-i@@@@1@2@oropendola 3mS-fly-EPV-PL-ABL-PERF-realisAn oropendola flew.@ling tu, hanshu ding@jan 21, 2021
 20@author@@@1@wo@i-ar-a-ig-an-ak-i katsari@@@@0@2@3mS-fly-EPV-PL-ABL-PERF-realis oropendolaAn oropendola flew.@ling tu, hanshu ding@jan 21, 2021
-21@author@@@1@aspect@no=neh-ak-i=ri@@@@1@1@1S=see-PERF-realis=3mOI saw him.@ling tu, hanshu ding@jan 21, 2021
-22@author@@@1@aspect@no=neh-i-ak=ri@@@@0@1@1S=see-realis-PERF=3mO'I saw him.'@ling tu, hanshu ding@jan 21, 2021
+21@author@@@1@aspect@no-ne-ak-i=ri@@@@1@1@1S-see-PERF-realis=3mOI saw him.@ling tu, hanshu ding@jan 21, 2021
+22@author@@@1@aspect@no-ne-i-ak=ri@@@@0@1@1S-see-realis-PERF=3mO'I saw him.'@ling tu, hanshu ding@jan 21, 2021
 23@author@@@1@aspect@i-tsiko-u-i=ro@@@@1@1@3mS-pull.with.hook-RET-realis=3fOHe pulled it down.@ling tu, hanshu ding@jan 21, 2021
-24@author@@@1@aspect@i-tsiko-u-i-ak=ro@@@@0@1@3mS-pull.with.hook-RET-PERF-realis=3fOHe pulled it down.@ling tu, hanshu ding@jan 21, 2021
+24@author@@@1@aspect@i-tsiko-u-ak-i=ro@@@@0@1@3mS-pull.with.hook-RET-PERF-realis=3fOHe pulled it down.@ling tu, hanshu ding@jan 21, 2021
 25@author@@@1@aspect@paita i-n-pig-a-e .@@@@1@3@later 3mS-irrealis-return-REG-irrealis .he will return later.@ling tu, hanshu ding@jan 21, 2021
 26@author@@@1@aspect@paita i-n-pig-a-ak-e .@@@@0@3@later 3mS-irrealis-return-REG-PERF-irrealis .he will return later.@ling tu, hanshu ding@jan 21, 2021
-27@author@@@1@aspect@no=n-shig-e@@@@1@1@1S=irrealis-run-irrealisI will run.@ling tu, hanshu ding@jan 21, 2021
-28@author@@@1@aspect@no=shig-e@@@@0@1@1S=run-irrealisI will run.@ling tu, hanshu ding@jan 21, 2021
-29@author@@@1@aspect@i=shig-u-i@@@@1@1@3mS=run-RET-realisHe ran there and back.@ling tu, hanshu ding@jan 21, 2021
-30@author@@@1@aspect@i=n-shig-u-i@@@@0@1@3mS=irrealis-run-RET-realisHe ran there and back.@ling tu, hanshu ding@jan 21, 2021
+27@author@@@1@aspect@no-n-shig-e@@@@1@1@1S-irrealis-run-irrealisI will run.@ling tu, hanshu ding@jan 21, 2021
+28@author@@@1@aspect@no-shig-e@@@@0@1@1S-run-irrealisI will run.@ling tu, hanshu ding@jan 21, 2021
+29@author@@@1@aspect@i-shig-u-i@@@@1@1@3mS-run-RET-realisHe ran there and back.@ling tu, hanshu ding@jan 21, 2021
+30@author@@@1@aspect@i-n-shig-u-i@@@@0@1@3mS-irrealis-run-RET-realisHe ran there and back.@ling tu, hanshu ding@jan 21, 2021
 31@author@@@1@pro-d@i-oga=ri matsigenka i-ne-a-ig-av-ak-i=ro@@@@1@3@3mS-DEM.MED=CNTR person 3mS-see-EPV-PL-TRNS-PERF-realis=3fOthe man saw her@ling tu, hanshu ding@jan 21, 2021
 32@author@@@1@pro-d@iriro i-ne-a-ig-av-ak-i=ro@@@@1@2@3m.PRO 3mS-see-EPV-PL-TRNS-PERF-realis=3fOhe saw her@ling tu, hanshu ding@jan 21, 2021
 33@author@@@1@pro-d@i-ne-a-ig-av-ak-i=ro@@@@1@1@3mS-see-EPV-PL-TRNS-PERF-realis=3fOhe saw her@ling tu, hanshu ding@jan 21, 2021
@@ -73,7 +73,7 @@
 73@author@@@1@whquestion@tata i-og-ak-a@@@@1@2@what.INTERR 3mS-eat-PERF-realis.reflWhat did he eat?@ling tu, hanshu ding@jan 21, 2021
 74@author@@@1@whquestion@i-og-ak-a tata@@@@0@2@3mS-eat-PERF-realis.refl what.INTERRWhat did he eat?@ling tu, hanshu ding@jan 21, 2021
 75@author@@@1@whquestion@tata pi=oguso-ak-i=ro@@@@1@2@what 2S=tie-perf-real.i=3fOWhat did you tie it together with?@ling tu, hanshu ding@jan 21, 2021
-76@author@@@1@whquestion@tata pi=oguso-ak-i@@@@0@2@what 2S=tie-perf-real.iWhat did you tie together with?@ling tu, hanshu ding@jan 21, 2021
+76@author@@@1@whquestion@tata pi-oguso-ak-i@@@@0@2@what 2S-tie-perf-real.iWhat did you tie together with?@ling tu, hanshu ding@jan 21, 2021
 77@author@@@1@whquestion@tya=ra o-n-kant-ak-enpa pi-n-kog-ak-e=ra pashini tsinane ?@@@@1@6@why.INTERR=SUB 3fS-irrealis-happen-PERF-irreal.refl 2S-irrealis-search.for-PERF-irrealis=SUB other female ?Why do you want another woman?@ling tu, hanshu ding@jan 21, 2021
 78@author@@@1@whquestion@tya=ra  pi-n-kog-ak-e=ra pashini tsinane ?@@@@0@5@why.INTERR=SUB 2S-irrealis-search.for-PERF-irrealis=SUB other female ?Why do you want another woman?@ling tu, hanshu ding@jan 21, 2021
 79@author@@@1@cl-mod@i-matik-ak-i i-ogonke-t-ak-a=ra@@@@1@2@3mS-sing-PERF-realis 3mS-arrive-EPC-PERF-realis.refl=SUBHe sang when he arrived@ling tu, hanshu ding@jan 21, 2021
