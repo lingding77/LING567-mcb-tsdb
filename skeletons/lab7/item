@@ -111,9 +111,9 @@
 111@author@@@1@cop@te surari o-nti@@@@0@3@NEG.REAL man 3nmS-COPShe is not a male@ling tu, hanshu ding@feb 19, 2021
 112@author@@@1@cop@i-ne-i i-nti surari@@@@1@3@3mS-see-realis 3mS-COP maleHe sees that he is male@ling tu, hanshu ding@feb 19, 2021
 113@author@@@1@cop@i-ne-i i-nti o-og-ak-a=ro@@@@1@3@3mS-see-realis 3fS-COP 3fS-eat-PERF-realis.refl=3fOHe saw that she ate it@ling tu, hanshu ding@feb 19, 2021
-114@author@@@1@cop@o-n-ak-i inkenishi=ku@@@@1@2@3fS-COP.LOC-PERF-realis forest=LOCIt is in the forest@ling tu, hanshu ding@feb 19, 2021
-115@author@@@1@cop@o-n inkenishi=ku@@@@1@2@3fS-COP.LOC forest=LOCIt is in the forest@ling tu, hanshu ding@feb 19, 2021
-116@author@@@1@cop@o-nti inkenishi=ku@@@@1@2@3fS-COP forest=LOCIt is in the forest@ling tu, hanshu ding@feb 19, 2021
+114@author@@@1@cop@o-n-i inkenishi=ku@@@@1@2@3fS-COP.LOC-realis forest=LOCIt is in the forest@ling tu, hanshu ding@feb 19, 2021
+115@author@@@1@cop@o-n inkenishi=ku@@@@0@2@3fS-COP.LOC forest=LOCIt is in the forest@ling tu, hanshu ding@feb 19, 2021
+116@author@@@1@cop@o-nti inkenishi=ku@@@@0@2@3fS-COP forest=LOCIt is in the forest@ling tu, hanshu ding@feb 19, 2021
 117@author@@@1@cop@i-anu-t-ak-i inkenishi=ku@@@@1@2@3mS-walk-EPC-PERF-realis forest=LOCHe walked in the forest@ling tu, hanshu ding@feb 19, 2021
 118@author@@@1@cop@o-am-ak-i=ro o-n-ak-i=ra vatea@@@@1@3@3fS-bring-PERF-realis=3fO 3fS-COP.LOC-PERF-realis=SUB basinshe brought it to where a basin was@ling tu, hanshu ding@feb 19, 2021
 119@author@@@1@copulawithap@te o-n-katsinka-e@@@@1@2@NEG.REAL 3fS-irrealis-be.cold-irrealisIt is not cold@ling tu, hanshu ding@feb 19, 2021
@@ -124,13 +124,17 @@
 124@author@@@1@copulawithap@kironpi i-taseg-ri-ak-i@@@@0@2@fish 3mS-be.hungry-ADJZ-PERF-realisThe fish is hungry@ling tu, hanshu ding@feb 19, 2021
 125@author@@@1@copulawithap@kuta-ri o-n-i@@@@1@2@be.white-ADJZ 3fS-COP-ireallisIt is white@ling tu, hanshu ding@feb 19, 2021
 126@author@@@1@copulawithap@o-n-kuta-ri-i@@@@0@1@3fS-COP-be.white-ADJZ-ireallisIt is white@ling tu, hanshu ding@feb 19, 2021
-127@author@@@1@whquestion@tsini katsinka-ak-i ?@@@@1@3@who.INTERR be.cold-PERF-realis ?Who was cold?@ling tu, hanshu ding@feb 19, 2021
-128@author@@@1@whquestion@tsini nti-katsinka-ak-i ?@@@@0@3@who.INTERR COP-be.cold-PERF-realis ?Who was cold?@ling tu, hanshu ding@feb 19, 2021
-129@author@@@1@whquestion@tsini n-taseg-e@@@@1@2@who.INTERR irealis-be.hungry-irrealisWho is hungry?@ling tu, hanshu ding@feb 19, 2021
-130@author@@@1@whquestion@tsini i-n-taseg-e@@@@0@2@who.INTERR 3mS-irealis-be.hungry-irrealisWho is (she) hungry?@ling tu, hanshu ding@feb 19, 2021
-131@author@@@1@mmt@osheto i-mag-i@@@@1@2@spider.monkey 3mS-sleep-realisSpider monkeys sleep@ling tu, hanshu ding@feb 19, 2021
-132@author@@@1@mmt@osheto i-ogia-i *pito-tsi@@@@1@3@spider.monkey 3mS-follow-realis canoe-ALIENSpider monkeys follow canoes@ling tu, hanshu ding@feb 19, 2021
-133@author@@@1@mmt@no-ogia-i=npi@@@@1@1@1S-follow-realis=2OI follow you@ling tu, hanshu ding@feb 19, 2021
-134@author@@@1@mmt@osheto i-nti matsontsori@@@@1@3@dog 3mS-COP catThe dogs are the cats@ling tu, hanshu ding@feb 19, 2021
-135@author@@@1@mmt@osheto i-taseg-i@@@@1@2@dog 3mS-be.hungry-realisThe dogs are hungry@ling tu, hanshu ding@feb 19, 2021
-136@author@@@1@mmt@osheto i-n-i inkenishi=ku@@@@1@3@dog 3mS-COP.LOC-realis park=LOCThe dogs are in the park@ling tu, hanshu ding@feb 19, 2021
+127@author@@@1@whquestion@tata o-ita ?@@@@1@3@what.INTERR 3fS-IDENT ?What is it?@ling tu, hanshu ding@feb 19, 2021
+128@author@@@1@whquestion@tata o-nti ?@@@@0@3@what.INTERR 3fS-COP ?What is it?@ling tu, hanshu ding@feb 19, 2021
+129@author@@@1@whquestion@tyara o-ita ?@@@@1@3@where 3nmS-IDENT ?where is it?@ling tu, hanshu ding@feb 19, 2021
+130@author@@@1@whquestion@tyara o-ita-ak-i ?@@@@0@3@where 3nmS-IDENT-ak-i ?where was it@ling tu, hanshu ding@feb 19, 2021
+131@author@@@1@whquestion@tyani katsinka-ak-i ?@@@@1@3@who.INTERR be.cold-PERF-realis ?Who was cold?@ling tu, hanshu ding@feb 19, 2021
+132@author@@@1@whquestion@tyani nti-katsinka-ak-i ?@@@@0@3@who.INTERR COP-be.cold-PERF-realis ?Who was cold?@ling tu, hanshu ding@feb 19, 2021
+133@author@@@1@whquestion@tyani n-taseg-e ?@@@@1@3@who.INTERR irealis-be.hungry-irrealis ?Who is hungry?@ling tu, hanshu ding@feb 19, 2021
+134@author@@@1@whquestion@tyani i-n-taseg-e ?@@@@0@3@who.INTERR 3mS-irealis-be.hungry-irrealis ?Who is (she) hungry?@ling tu, hanshu ding@feb 19, 2021
+135@author@@@1@mmt@osheto i-mag-i@@@@1@2@spider.monkey 3mS-sleep-realisSpider monkeys sleep@ling tu, hanshu ding@feb 19, 2021
+136@author@@@1@mmt@osheto i-ogia-i *pito-tsi@@@@1@3@spider.monkey 3mS-follow-realis canoe-ALIENSpider monkeys follow canoes@ling tu, hanshu ding@feb 19, 2021
+137@author@@@1@mmt@no-ogia-i=npi@@@@1@1@1S-follow-realis=2OI follow you@ling tu, hanshu ding@feb 19, 2021
+138@author@@@1@mmt@osheto i-nti matsontsori@@@@1@3@dog 3mS-COP catThe dogs are the cats@ling tu, hanshu ding@feb 19, 2021
+139@author@@@1@mmt@osheto i-taseg-i@@@@1@2@dog 3mS-be.hungry-realisThe dogs are hungry@ling tu, hanshu ding@feb 19, 2021
+140@author@@@1@mmt@osheto i-n-i inkenishi=ku@@@@1@3@dog 3mS-COP.LOC-realis park=LOCThe dogs are in the park@ling tu, hanshu ding@feb 19, 2021
